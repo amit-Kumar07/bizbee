@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bizbee/static/css/main.d7fcd913.css",
+    "main.js": "/bizbee/static/js/main.9d0ee5b3.js",
+    "index.html": "/bizbee/index.html",
+    "main.d7fcd913.css.map": "/bizbee/static/css/main.d7fcd913.css.map",
+    "main.9d0ee5b3.js.map": "/bizbee/static/js/main.9d0ee5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7fcd913.css",
+    "static/js/main.9d0ee5b3.js"
+  ]
+}
